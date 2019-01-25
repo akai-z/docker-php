@@ -1,3 +1,6 @@
 [submodule "alpine"]
 	path = alpine
 	url = https://github.com/akai-z/docker-alpine-php.git
+[submodule "debian"]
+	path = debian
+	url = https://github.com/akai-z/docker-debian-php.git
